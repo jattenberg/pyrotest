@@ -1,0 +1,7 @@
+polars
+numpy
+numpyro
+matplotlib
+scikit-learn
+jax
+jupyter
