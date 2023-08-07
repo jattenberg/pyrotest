@@ -5,3 +5,5 @@ matplotlib
 scikit-learn
 jax
 jupyter
+jupyterlab~=4.0
+jupyterlab_ai
